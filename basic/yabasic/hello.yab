@@ -1,0 +1,8 @@
+#!/usr/local/bin/yabasic
+
+sub printit(msg$)
+	print msg$
+end sub
+
+printit("hello, world")
+end
