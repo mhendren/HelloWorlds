@@ -16,3 +16,5 @@ public:
     Speaker(Talker& t);
     void Talk(const std::string&  speech);
 };
+
+#endif //UNTITLED_SPEAKER_H
